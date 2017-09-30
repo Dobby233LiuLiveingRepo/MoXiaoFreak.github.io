@@ -1,8 +1,9 @@
 body {
     background-color: #ededed;
-    background-image: url("../img/bg.jpg");
+    background-image: url("https://public.lightpic.info/image/CD4E_59CFA15B0.jpg");
     background-position: 50% 0;
     background-attachment: scroll;
+    background-size: cover;
 }
 
 .title {
